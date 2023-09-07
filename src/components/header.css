@@ -1,0 +1,22 @@
+.Header{
+border: 2px solid rgb(79, 49, 49);
+background-color: aquamarine;
+padding: 2%;
+border-radius: 3px;
+display: flex;
+justify-content: space-between;
+}
+.heading{
+ font-size: x-large;
+ padding: 10px;
+ 
+}
+.buttons{
+ margin: 1px;
+}
+.header_buttons{
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: blueviolet;
+}

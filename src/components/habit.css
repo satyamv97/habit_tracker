@@ -1,0 +1,21 @@
+.habit_main{
+    display: flex;
+    justify-content: space-between;
+    background-color: chartreuse;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px ;
+}
+.habit_name{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+    padding: 0px 15px 0px 15px;
+    background-color: plum;
+    border-radius: 5px;
+}
+.button{
+    border-radius: 5px;
+    padding: 0px 5px 0px 5px;
+    margin: 0px 5px 0px 5px;
+}
